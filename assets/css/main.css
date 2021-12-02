@@ -1,0 +1,14 @@
+@import url(others/header.css);
+@import url(others/footer.css);
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+    width: 95%;
+    margin: 0 auto;
+    padding-top: 90px;
+}
