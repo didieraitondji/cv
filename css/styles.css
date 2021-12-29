@@ -3636,6 +3636,17 @@ fieldset:disabled .btn {
     border-color: #f8f9fa;
 }
 
+.btn-outline-light-1 {
+    color: rgb(42, 42, 109);
+    border-color: rgb(42, 42, 109);
+}
+
+.btn-outline-light-1:hover {
+    color: white;
+    background-color: rgb(42, 42, 109);
+    border-color: rgb(42, 42, 109);
+}
+
 .btn-check:focus+.btn-outline-light,
 .btn-outline-light:focus {
     box-shadow: 0 0 0 0.25rem rgba(248, 249, 250, 0.5);
